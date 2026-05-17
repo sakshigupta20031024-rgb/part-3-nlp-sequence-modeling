@@ -1,0 +1,11 @@
+Why do RNNs struggle with long-term dependencies?
+RNNs can forget earlier words when sequences become very long.
+
+How do LSTMs help?
+LSTMs contain memory cells that help remember important information for longer periods.
+
+What does attention solve?
+Attention helps the model focus on the most important words in a sentence instead of treating all words equally.
+
+Why are transformers important?
+Transformers process text faster and understand context better. Modern AI systems like ChatGPT use transformer architecture.
