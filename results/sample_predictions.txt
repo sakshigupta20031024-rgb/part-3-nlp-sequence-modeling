@@ -1,39 +1,31 @@
-====================================================================================================
 SAMPLE PREDICTIONS FROM LSTM MODEL
-====================================================================================================
 
 Sample 1:
 Text: I need help with my account
 Actual Label: neutral
 Predicted Label: neutral
 Confidence: 0.9500
-----------------------------------------------------------------------------------------------------
 
 Sample 2:
 Text: Great service very happy
 Actual Label: positive
 Predicted Label: positive
 Confidence: 0.9300
-----------------------------------------------------------------------------------------------------
 
 Sample 3:
 Text: Very disappointed with support
 Actual Label: negative
 Predicted Label: negative
 Confidence: 0.9100
-----------------------------------------------------------------------------------------------------
 
 Sample 4:
 Text: Can I get information about billing
 Actual Label: neutral
 Predicted Label: neutral
 Confidence: 0.8900
-----------------------------------------------------------------------------------------------------
 
 Sample 5:
 Text: Excellent response time
 Actual Label: positive
 Predicted Label: positive
 Confidence: 0.9200
-----------------------------------------------------------------------------------------------------
-
